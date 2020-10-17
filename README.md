@@ -1,5 +1,9 @@
-##bagus tri handono -312010170 (tugas pertemuan ke 4)
-###penggunaan git
+##tugas
+
+
+***bagus tri handono -312010170 (tugas pertemuan ke 4)***
+
+**penggunaan git**
 **git add**, menambahkan file 
 
 ![gambar1](https://user-images.githubusercontent.com/73014804/96333939-27df8c00-1097-11eb-853c-c21b02796e47.png)
